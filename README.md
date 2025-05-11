@@ -1,4 +1,4 @@
-# CNN Model for Card Detection (Keras)
+# CNN Model for Card Detection
 
 This project implements a convolutional neural network (CNN) using Keras to detect and classify different types of playing cards from image data.
 
